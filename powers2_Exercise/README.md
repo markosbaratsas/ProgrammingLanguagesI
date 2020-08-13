@@ -1,4 +1,4 @@
-# Coronagraph Exersice
+# Powers2 Exersice
 
 Code written by Markos Baratsas for the exercises of course Programming Languages I (ECE NTUA).
 
